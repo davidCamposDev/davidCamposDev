@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o David Campos</h1>
-<h3 align="center">🎓 Estudante de Ciência da Computação | 💻 Estagiário de TI | 📱 Dev Mobile em formação</h3>
+<h3 align="center">Dev Mobile (Flutter) com base em Web (HTML, CSS e JavaScript)</h3>
 
 ---
 
