@@ -1,38 +1,61 @@
-<h2 align="center">Olá 👋, eu sou o David Campos</h2>
+<h1 align="center">Olá 👋, eu sou o David Campos</h1>
+<h3 align="center">🎓 Estudante de Ciência da Computação | 💻 Estagiário de TI | 📱 Dev Front-End</h3>
 
-###
+---
+
+### <p aling="center">📌Sobre Mim</p>
+
+<p align="center">
+  🎓 Formado em Ciência da Computação — conclusão em dez/2025  
+  🧠 Estudando desenvolvimento web  
+  🚀 Apaixonado por tecnologia, aprendizado contínuo e desafios  
+</p>
+
+
+---
+
+###  <p align="center">📫Contato</p>
+
+<p align="center">
+  <a href="mailto:davi.alencar144@gmail.com"><img src="https://img.shields.io/badge/Gmail-davi.alencar144@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/david-campos-83632a23b"><img src="https://img.shields.io/badge/LinkedIn-David%20Campos-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/davidCamposDev"><img src="https://img.shields.io/badge/GitHub-davidCamposDev-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+###  <p aling="center">🛠️Tecnologias que estudo</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidCamposDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: invert(1);" width="50" />
+
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+###  <p aling="center">📊Estatísticas do GitHub</p>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidCamposDev&show_icons=true&theme=dark&hide_border=true&card_width=420" style="vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidCamposDev&layout=compact&theme=dark&hide_border=true&card_width=420" style="vertical-align: middle;" />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+---
+
+### ✨ Obrigado por visitar meu perfil!
+
+Se gostou, deixa uma ⭐️ nos meus repositórios favoritos!
 </div>
 
 ###
