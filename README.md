@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o David Campos</h1>
-<h3 align="center">🎓 Estudante de Ciência da Computação | 💻 Estagiário de TI | 📱 Dev Front-End</h3>
+<h3 align="center">🎓 Estudante de Ciência da Computação | 📱 Dev Front-End</h3>
 
 ---
 
